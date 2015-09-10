@@ -10,7 +10,7 @@ DNAMIX v. 2 is based on formulas and methods derived in the paper:
 
 - Curran JM, Triggs CM, Buckleton J, Weir BS. 1999. Interpreting DNA mixtures in structured populations. Journal of Forensic Sciences, 44: 937-995.
 
-DNAMIX v. 2 is written in FORTRAN 90; if you have a FORTRAN 90 compiler, then you may want to download the source file dnamix2.f and compile it yourself. The executable file is available for Unix and Windows. A user manual is also available.
+DNAMIX v. 2 is written in FORTRAN 90; if you have a FORTRAN 90 compiler, then you may want to download the source file `DNAMIX2/dnamix2.f` and compile it yourself. The executable file is available for Unix and Windows. A user manual is also available.
 
 ### Windows
 
@@ -37,7 +37,7 @@ DNAMIX v. 1 is written in both FORTRAN 77 and C. If you have a compiler for eith
 - `DNAMIX/readme.txt` (gives directions on how to use the program)
 - `DNAMIX/DNAMIX.EXE` (the executable file for Windows)
 
-Please be sure to obtain the files example.txt and readme.txt as they explain how to use the program.
+Please be sure to obtain the files `DNAMIX/example.txt` and `DNAMIX/readme.txt` as they explain how to use the program.
 
 ## Related References
 
