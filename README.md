@@ -14,12 +14,12 @@ DNAMIX v. 2 is written in FORTRAN 90; if you have a FORTRAN 90 compiler, then yo
 
 ### Windows
 
-- `dnamix2.f` (source code file)
+- `dnamix2_windows.f` (source code file)
 - `dnamix2.exe` (executable file)
 
 ### Linux
 
-- `dnamix2.f` (source code file)
+- `dnamix2_unix.f` (source code file)
 
 ### Manual
 - `manual.pdf`
