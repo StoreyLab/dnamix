@@ -14,15 +14,15 @@ DNAMIX v. 2 is written in FORTRAN 90; if you have a FORTRAN 90 compiler, then yo
 
 ### Windows
 
-- `dnamix2_windows.f` (source code file)
-- `dnamix2.exe` (executable file)
+- `DNAMIX2/dnamix2_windows.f` (source code file)
+- `DNAMIX2/dnamix2.exe` (executable file)
 
 ### Linux
 
-- `dnamix2_unix.f` (source code file)
+- `DNAMIX2/dnamix2_unix.f` (source code file)
 
 ### Manual
-- `manual.pdf`
+- `DNAMIX2/manual.pdf`
 
 ## DNAMIX v. 1
 DNAMIX v. 1 is written in both FORTRAN 77 and C. If you have a compiler for either language, then you may want to download the source code and compile it yourself. Currently, the executable file is only available for PC's. DNAMIX v. 1 is based on formulas derived in the paper:
@@ -31,11 +31,11 @@ DNAMIX v. 1 is written in both FORTRAN 77 and C. If you have a compiler for eith
 
 ### Relevant files
 
-- `dnamix.c` (source code for C version)
-- `dnamix.f` (source code for FORTRAN 77 version)
-- `example.txt` (shows an example run of the program)
-- `readme.txt` (gives directions on how to use the program)
-- `DNAMIX.EXE` (the executable file for Windows)
+- `DNAMIX/dnamix.c` (source code for C version)
+- `DNAMIX/dnamix.f` (source code for FORTRAN 77 version)
+- `DNAMIX/example.txt` (shows an example run of the program)
+- `DNAMIX/readme.txt` (gives directions on how to use the program)
+- `DNAMIX/DNAMIX.EXE` (the executable file for Windows)
 
 Please be sure to obtain the files example.txt and readme.txt as they explain how to use the program.
 
